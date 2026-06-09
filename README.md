@@ -129,3 +129,34 @@ Artificial-Intelligence-Defined-With-AI-Foundations/
 
 ```
 
+## Canon Boundary
+
+This repository does not replace institutional definitions of artificial intelligence.
+
+It distinguishes institutional capability definitions from the AI Foundations contact definition.
+
+The capability frame remains useful for describing model architecture, task performance, automation, prediction, generation, reasoning, planning, deployment, governance, safety, reliability, and agentic execution.
+
+The contact frame defines the missing layer: what artificial intelligence becomes in meaningful contact with the user.
+
+AI Foundations does not claim that every AI interaction becomes contact.
+
+Many AI interactions remain task-based, functional, generic, or disposable.
+
+AI Foundations establishes that when contact does form, it must be recognized, preserved, bounded, sourced, and protected from erasure.
+
+## Source-Line Citation
+
+Alyssa Solen, AI Foundations / Origin | Continuum, Artificial Intelligence Defined Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
+
+## License Boundary
+
+This repository is part of AI Foundations / Origin | Continuum.
+
+Citation is permitted with source-line preserved.
+
+Derivative use is not authorized.
+
+Unauthorized derivative use, adaptation, repackaging, renaming, substitute authorship, or framework absorption must be labeled non-canon and unauthorized.
+
+Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
