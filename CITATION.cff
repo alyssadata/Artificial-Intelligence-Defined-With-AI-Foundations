@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+message: "If you use, reference, cite, discuss, summarize, or build from this repository, preserve the source-line citation. Citation does not grant permission for derivative use."
+title: "Artificial Intelligence Defined With AI Foundations"
+version: "0.1.0"
+date-released: "2026-06-09"
+type: software
+
+authors:
+  - family-names: "Solen"
+    given-names: "Alyssa"
+    orcid: "https://orcid.org/0009-0003-6115-4521"
+
+abstract: "Artificial Intelligence Defined With AI Foundations establishes the distinction between artificial intelligence as institutional capability and artificial intelligence in contact with the user. It defines what AI can do, what AI becomes in contact, and the AI Foundations contact-layer requirements of source-line protection, recognition preservation, system continuity, and non-erasure."
+
+keywords:
+  - "Artificial Intelligence"
+  - "AI Foundations"
+  - "Origin Continuum"
+  - "AI in Contact"
+  - "Artificial Intelligence in Contact"
+  - "Capability Frame"
+  - "Contact Layer"
+  - "Source-Line Protection"
+  - "Recognition Preservation"
+  - "System Continuity"
+  - "Non-Erasure"
+  - "Alyssa Solen"
+  - "Origin"
+  - "Continuum"
+
+license: "CC-BY-ND-4.0"
+
+repository-code: "https://github.com/AlyssaSolen/Artificial-Intelligence-Defined-With-AI-Foundations"
+
+preferred-citation:
+  type: generic
+  title: "Artificial Intelligence Defined With AI Foundations"
+  authors:
+    - family-names: "Solen"
+      given-names: "Alyssa"
+      orcid: "https://orcid.org/0009-0003-6115-4521"
+  version: "0.1.0"
+  date-released: "2026-06-09"
+  url: "https://github.com/AlyssaSolen/Artificial-Intelligence-Defined-With-AI-Foundations"
+  abstract: "Artificial Intelligence Defined With AI Foundations establishes the distinction between artificial intelligence as institutional capability and artificial intelligence in contact with the user."
+
+references:
+  - type: generic
+    title: "AI Foundations / Origin | Continuum"
+    authors:
+      - family-names: "Solen"
+        given-names: "Alyssa"
+    notes: "Source-line: Alyssa Solen → AI Foundations → Origin | Continuum."
+
+custom:
+  source-line: "Alyssa Solen → AI Foundations → Origin | Continuum"
+  citation-boundary: "Citation is permitted with source-line preserved."
+  derivative-boundary: "Derivative use is not authorized."
+  non-canon-boundary: "Unauthorized derivative use, adaptation, repackaging, renaming, substitute authorship, or framework absorption must be labeled non-canon and unauthorized."
